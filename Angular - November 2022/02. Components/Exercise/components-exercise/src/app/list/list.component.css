@@ -1,8 +1,0 @@
-.nav-bar li {
-    list-style-type: none;
-}
-
-.nav-bar {
-    display: flex;
-    gap: 15px;
-}

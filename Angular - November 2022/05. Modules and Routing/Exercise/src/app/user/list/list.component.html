@@ -1,4 +1,0 @@
-<div id="user-list-container">
-    <div *ngFor="let user of userList" [routerLink]="['/user', 'details', user.id]">{{user.id}}. {{user.username}}</div>
-</div>
-<button (click)="loadUsers()">Load Users</button>

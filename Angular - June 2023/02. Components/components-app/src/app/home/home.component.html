@@ -1,9 +1,0 @@
-<ul *ngIf="render === true">
-    <li *ngFor="let game of games">
-        <span [class.green]="game.year >= 2010">{{ game.name + ': ' + game.year}}</span>
-    </li>
-</ul>
-
-<button (click)="renderGames()">{{render === true ? 'Hide' : 'Show'}} games</button>
-
-<img src={{imgSource}} alt="img">
