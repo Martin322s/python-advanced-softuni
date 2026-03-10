@@ -1,0 +1,14 @@
+.html
+- - - index.html
+.js
+- - - index.js
+.pptx
+- - - demo.pptx
+.py
+- - - 4-directory-traversal.py
+- - - program.py
+- - - python.py
+.txt
+- - - log.txt
+- - - note.txt
+- - - report.txt
